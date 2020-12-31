@@ -1,3 +1,6 @@
 [submodule "AndroidBasis"]
 	path = AndroidBasis
 	url = https://github.com/miniwmy/AndroidBasis.git
+[submodule "StaticAnalysisBasis"]
+	path = StaticAnalysisBasis
+	url = https://github.com/miniwmy/StaticAnalysisBasis.git
