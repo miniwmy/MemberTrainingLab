@@ -1,0 +1,3 @@
+[submodule "AndroidBasis"]
+	path = AndroidBasis
+	url = https://github.com/miniwmy/AndroidBasis.git
